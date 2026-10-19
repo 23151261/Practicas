@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "practica 2.1"
+rootProject.name = "practica 2"
 include(":app")
+ 

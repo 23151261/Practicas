@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">practica 2.1</string>
+    <string name="app_name">practica 2</string>
+    <string name="mensaje">Felicidades por tu cumpelaños</string>
 </resources>

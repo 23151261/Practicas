@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.practica21"
+    namespace = "com.example.practica2"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.practica21"
+        applicationId = "com.example.practica2"
         minSdk = 31
         targetSdk = 37
         versionCode = 1
@@ -22,7 +22,8 @@ android {
     buildTypes {
         release {
             optimization {
-                enable = false
+                enable = true
+                packageScope = setOf("androidx.**", "kotlin.**", "kotlinx.**")
             }
         }
     }
