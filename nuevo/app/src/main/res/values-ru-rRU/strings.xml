@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nuevo</string>
+    <string name="home_screen">Главная</string>
+    <string name="back_btn_desc">Назад</string>
+    <string name="bottom_app_bar">Нижняя панель</string>
+    <string name="home_fab_text">Добавить</string>
+    <string name="materia">Разработка мобильных приложений</string>
+    <string name="nombre">Andrés</string>
+    <string name="apellido">Soldevilla</string>
+</resources>

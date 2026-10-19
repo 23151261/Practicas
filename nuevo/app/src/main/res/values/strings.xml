@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nuevo</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Abajo</string>
+    <string name="home_fab_text">Agregar</string>
+    <string name="materia">Desarrollo de aplicaciones mobiles</string>
+    <string name="nombre">Andrés</string>
+    <string name="apellido">Soldevilla</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nuevo</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Back</string>
+    <string name="bottom_app_bar">Bottom</string>
+    <string name="home_fab_text">Add</string>
+    <string name="materia">Mobile Application Development</string>
+    <string name="nombre">Andrés</string>
+    <string name="apellido">Soldevilla</string>
+</resources>

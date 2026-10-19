@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nuevo</string>
+    <string name="home_screen">ホーム</string>
+    <string name="back_btn_desc">戻る</string>
+    <string name="bottom_app_bar">下部</string>
+    <string name="home_fab_text">追加</string>
+    <string name="materia">モバイルアプリ開発</string>
+    <string name="nombre">Andrés</string>
+    <string name="apellido">Soldevilla</string>
+</resources>
