@@ -165,8 +165,10 @@ fun ViewContainer() {
                                 tint = Color.White
                             )
                         }
-                        // 👇 Ícono Share: abre SecondActivity
-                        IconButton(onClick = { openSecondActivity(context) }) {
+                        IconButton(onClick = {
+                            Toast.makeText(context, "Abriendo SecondActivity...", Toast.LENGTH_SHORT).show()
+                            openSecondActivity(context)
+                        }) {
                             Icon(
                                 imageVector = Icons.Default.Share,
                                 contentDescription = "Ir a Second Activity",
