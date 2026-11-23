@@ -7,4 +7,12 @@
     <string name="materia">モバイルアプリ開発</string>
     <string name="nombre">Andrés</string>
     <string name="apellido">Soldevilla</string>
+    <string name="options_menu">オプション</string>
+    <string name="profile">プロフィール</string>
+    <string name="config">設定</string>
+    <string name="logout">ログアウト</string>
+    <string name="correo">メール</string>
+    <string name="sms">SMS</string>
+    <string name="ubicacion">位置情報</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>

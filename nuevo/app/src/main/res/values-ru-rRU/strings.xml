@@ -7,4 +7,12 @@
     <string name="materia">Разработка мобильных приложений</string>
     <string name="nombre">Andrés</string>
     <string name="apellido">Soldevilla</string>
+    <string name="options_menu">Опции</string>
+    <string name="profile">Профиль</string>
+    <string name="config">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="correo">Почта</string>
+    <string name="sms">SMS</string>
+    <string name="ubicacion">Местоположение</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>

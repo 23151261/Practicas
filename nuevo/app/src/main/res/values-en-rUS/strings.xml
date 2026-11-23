@@ -7,4 +7,12 @@
     <string name="materia">Mobile Application Development</string>
     <string name="nombre">Andrés</string>
     <string name="apellido">Soldevilla</string>
+    <string name="options_menu">Options</string>
+    <string name="profile">Profile</string>
+    <string name="config">Settings</string>
+    <string name="logout">Log out</string>
+    <string name="correo">Email</string>
+    <string name="sms">SMS</string>
+    <string name="ubicacion">Location</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>

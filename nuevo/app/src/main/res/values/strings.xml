@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name">nuevo</string>
     <string name="home_screen">Inicio</string>
@@ -7,4 +9,12 @@
     <string name="materia">Desarrollo de aplicaciones mobiles</string>
     <string name="nombre">Andrés</string>
     <string name="apellido">Soldevilla</string>
+    <string name="options_menu">Opciones</string>
+    <string name="profile">Perfil</string>
+    <string name="config">Configuración</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="correo">Correo</string>
+    <string name="sms">Sms</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
